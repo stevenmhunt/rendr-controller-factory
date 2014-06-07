@@ -1,0 +1,30 @@
+{
+  "name": "rendr-controller-factory",
+  "version": "0.0.1",
+  "description": "Provides a clean and simple way of building Rendr controllers, and minimizes boilerplate code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevenmhunt/rendr-controller-factory.git"
+  },
+  "keywords": [
+    "rendr",
+    "controller",
+    "mvc",
+    "routing",
+    "action"
+  ],
+  "author": "Steven Hunt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevenmhunt/rendr-controller-factory/issues"
+  },
+  "homepage": "https://github.com/stevenmhunt/rendr-controller-factory",
+  "dependencies": {
+    "async": "^0.9.0",
+    "underscore": "^1.6.0"
+  }
+}
